@@ -1,0 +1,13 @@
+{
+  "name": "https-redirect",
+  "version": "1.0.1",
+  "description": "Docker HTTPS redirect",
+  "author": "Raúl Trepiana <rtrepiana@aonsolutions.es>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+  }
+}
+
